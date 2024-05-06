@@ -9,11 +9,11 @@ tags:
 [Description](#Description)
 [Ingredients](#Ingredients)
 [Steps](#Steps)
-[Notes](#Notes)
+[Notes](#Notes)<br>
 
 ## Description
 
-Breakfast sausage from the [Alton Brown website](https://altonbrown.com/recipes/homemade-breakfast-sausage/)
+Breakfast sausage from the [Alton Brown website](https://altonbrown.com/recipes/homemade-breakfast-sausage/) 
 Pork butt can be used to replace the back fat.
 
 ## Ingredients
