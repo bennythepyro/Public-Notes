@@ -6,9 +6,9 @@ tags:
   - public
 ---
 
-[Description](#Description)
-[Ingredients](#Ingredients)
-[Steps](#Steps)
+[Description](#Description)<br>
+[Ingredients](#Ingredients)<br>
+[Steps](#Steps)<br>
 [Notes](#Notes)<br>
 
 ## Description
