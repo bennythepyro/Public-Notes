@@ -7,7 +7,7 @@ tags:
 ---
 
 [Description](#Description)<br>
-[Ingredients](#Ingredients)<br>
+[Ingredients](#Ingredients)  
 [Steps](#Steps)<br>
 [Notes](#Notes)<br>
 
@@ -34,6 +34,7 @@ Pork butt can be used to replace the back fat.
 
 - [ ] Combine diced pork with all other ingredients and chill for 1 hour. 
 - [ ] Using the fine blade of a grinder, grind the pork. Form into 1-inch rounds. 
-- [ ] Refrigerate and use within 1 week or freeze for up to 3 months. For immediate use, saute patties over medium-low heat in a non-stick pan. Saute until brown and cooked through, approximately 10 to 15 minutes.
+- [ ] Refrigerate and use within 1 week or freeze for up to 3 months. 
+- [ ] Sauté patties over medium-low heat in a non-stick pan. Sauté until brown and cooked through, approximately 10 to 15 minutes.
 
 ## Notes
