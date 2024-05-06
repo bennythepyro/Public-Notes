@@ -6,10 +6,10 @@ tags:
   - public
 ---
 
-[Description](#Description)<br>
+[Description](#Description)  
 [Ingredients](#Ingredients)  
-[Steps](#Steps)<br>
-[Notes](#Notes)<br>
+[Steps](#Steps)  
+[Notes](#Notes)  
 
 ## Description
 
