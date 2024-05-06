@@ -13,6 +13,8 @@ tags:
 
 ## Description
 
+Breakfast sausage from the [Alton Brown website](https://altonbrown.com/recipes/homemade-breakfast-sausage/)
+
 ## Ingredients
 
 - [ ] 2 pounds pork butt (2 1/2 pounds with bone), diced into 1/4-inch pieces 
