@@ -3,7 +3,7 @@ tags:
   - food/breakfast
   - food/pork
   - food/batch-cooking
-  - public
+  - public-github
   - testingCode
 ---
 
