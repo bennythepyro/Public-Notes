@@ -12,7 +12,7 @@ tags:
 [Notes](#Notes)  
 
 ## Description
-Flakey buttery biscuit recipe.
+Flakey buttery biscuit recipe. 
 
 ## Ingredients
 
@@ -36,12 +36,13 @@ Flakey buttery biscuit recipe.
 
 ## Notes
 
-- if doubled, only use 3 tsp / 1 tbls of baking powder. 
-- butter can be replaced by cold solid fat. 100 g per stick.
-- can replace buttermilk with either milk or yogurt and milk mixture of the same weight. 
-- don't roll out the dough too thin, they won't rise properly.
-- diy baking powder 
+- If doubled, only use 3 TSP / 1 TBLS of baking powder. 
+- Butter can be replaced by cold solid fat. ~100 g of butter per stick.
+- Can replace buttermilk with either milk or yogurt and milk mixture of the same weight. 
+- Don't roll out the dough too thin, they won't rise properly.
+- ### DIY Baking Powder 
 	- 1 part baking soda
 	- 2 parts cream of tartar
 	- 1 part corn starch
-- 
+- ### Scones
+	- Can add a little sugar, vanilla, and dry ingredients to make scones. Wet ingredients make the biscuit too wet.
