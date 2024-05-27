@@ -1,7 +1,6 @@
 ---
-tags: 
-  - todo 
-  - food/recipe 
+tags:
+  - food/recipe
   - food/breakfast
   - public-github
 ---

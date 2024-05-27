@@ -12,7 +12,7 @@ tags:
 [[#Notes]]
 
 ## Description
-A mixture of the [[Biscuits]] and [[Overnight Cinnamon Rolls]] recipe.
+A blend of the [[Biscuits]] and [[Overnight Cinnamon Rolls]] recipe.
 
 ## Ingredients
 
