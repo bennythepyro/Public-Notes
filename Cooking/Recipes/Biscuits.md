@@ -12,7 +12,7 @@ tags:
 [Notes](#Notes)  
 
 ## Description
-flakey biscuit recipe.
+Flakey buttery biscuit recipe.
 
 ## Ingredients
 
