@@ -24,7 +24,7 @@ Standard small batch of Mexican queso recipe.
 - [ ] 1 + 1/2 TBLS flour
 - [ ] 1 + 1/2 cup milk
 - [ ] 3 tsp cornstarch
-- [ ] 3 oz cheese, grated
+- [ ] 4 oz cheese, grated
 - [ ] 1/4 cup cilantro, chopped
 
 ## Steps
