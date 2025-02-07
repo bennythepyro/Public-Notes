@@ -6,10 +6,10 @@ tags:
   - public-github
 ---
 
-[[#Description]]
-[[#Ingredients]]
-[[#Steps]]
-[[#Notes]]
+[Description](#Description)  
+[Ingredients](#Ingredients)  
+[Steps](#Steps)  
+[Notes](#Notes)  
 
 ## Description
 A beefy, umami rich pasta sauce.
